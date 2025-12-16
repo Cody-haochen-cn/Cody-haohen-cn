@@ -16,4 +16,4 @@
 
 ### 📘 python-homework-record（Python 练习与作业记录）
 记录每周练习、题目与代码实现。  
-👉 仓库：https://github.com/Cody-haohen-cn/python-homework-record
+👉 仓库：https://github.com/Cody-haochen-cn/python-homework-record
