@@ -17,14 +17,3 @@
 ### 📘 python-homework-record（Python 练习与作业记录）
 记录每周练习、题目与代码实现。  
 👉 仓库：https://github.com/Cody-haohen-cn/python-homework-record
-
-
----
-
-## 🧭 我在学什么（学习路线）
-
-- ✅ Python 基础：变量、条件、循环、函数、文件读写、字典
-- 🔄 Python 进阶：模块、异常、面向对象（进行中）
-- 🔄 Web：Flask 基础（进行中）
-- 🔄 IoT：ESP8266 + MicroPython（进行中）
-- 🔄 工程化：Git 分支管理、README、Release、开源规范（进行中）
